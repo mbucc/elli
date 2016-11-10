@@ -76,6 +76,7 @@ Here's the features Elli *does* have:
  * "Date" header: https://github.com/knutin/elli_date
  * Cookies: https://github.com/drfloob/elli_cookie
  * Real-time statistics dashboard: https://github.com/knutin/elli_stats
+ * Prometheus Collector: https://github.com/elli-lib/elli_prometheus
 
 
 
